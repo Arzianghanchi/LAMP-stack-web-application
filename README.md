@@ -21,7 +21,8 @@ First, install MySQL server and client:
 sudo apt update
 sudo apt install mysql-server mysql-client	 
 ![image](https://github.com/user-attachments/assets/dd059aef-7293-43e6-9ec8-58d327f1e1ca)
-![image](https://github.com/user-attachments/assets/efe91986-f6ad-4469-8902-dcabe03693e3)
+![image](https://github.com/user-attachments/assets/816f1e40-d04e-43e6-957e-714d1a5cd28e)
+
 
 
 During the installation, you'll be prompted to set a root password for MySQL. Make sure to remember this password as you'll need it later.
